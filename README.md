@@ -1,2 +1,2 @@
 # js_learn
-js联系
+js练习
